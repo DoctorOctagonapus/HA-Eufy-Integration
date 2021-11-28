@@ -12,10 +12,10 @@ To install:
 * Download the contents of this repo to that folder
 * Restart Home Assistant
 
-You do not need to modify your configuration.yaml.
+You do not need to modify your configuration.yaml, though I've found using your EufyHome e-mail and password is more reliable than using access tokens.
 
 Custom components with the same name as built-in components take precedence by default.
 
-If you're a HA dev and you're reading this, my changes to manifest.json should solve the problem everyone's having. Please fix this issue in the official build.
+If you're a HA dev and you're reading this, my changes to manifest.json should solve the problem everyone's having. Kindly fix this issue in the official build.
 
-Use at your own risk. I am by no means a programmer at all, I just read somewhere that this should fix it.
+Use at your own risk. I am by no means a programmer at all, I just read somewhere that this should fix it. If you're an actual programmer who knows a better fix then go for it.
