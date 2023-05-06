@@ -3,7 +3,7 @@
   "name": "eufy",
   "version": "0.0.1",
   "documentation": "https://www.home-assistant.io/integrations/eufy",
-  "requirements": ["protobuf==3.20","lakeside==0.12","pycryptodome","requests","setuptools"],
+  "requirements": ["protobuf","lakeside==0.13","pycryptodome","requests","setuptools"],
   "codeowners": [],
   "iot_class": "local_polling"
 }
